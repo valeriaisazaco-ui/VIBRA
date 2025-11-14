@@ -160,20 +160,20 @@ section {
 }
 
 
-footer {
+footer-info {
   background: #0c0023;
   padding: 40px 60px;
   text-align: center;
 }
 
-.footer {
+.footer-info {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
   margin-bottom: 30px;
 }
 
-.footer {
+.footer-info {
   color: #ffcc33;
 }
 
